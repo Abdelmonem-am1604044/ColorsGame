@@ -1,0 +1,30 @@
+#aboveFirst {
+    background-color: #180eff;
+    color: white;
+    font-family: Muli;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.row {
+    background-color: black;
+}
+
+.square {
+    width: 300px;
+    height: 200px;
+    margin: 25px;
+    background-color: yellow;
+}
+
+#aboveFirst .container h1 {
+    font-size: 80px;
+}
+
+#aboveFirst .container h2 {
+    font-size: 45px;
+}
+
+.navbar-inverse {
+    background-color: white;
+}
